@@ -1,7 +1,7 @@
 # a-tune_start_ja_git
 The python scripts and helps of a-tune. With this, you can start playing movie (with press space key by this script) on just the time you input.
 
-Firstly download this folder by click the green **<>code** bottun, and **Download ZIP**. Then, Unzip in your download folder. If you unzip in other folder, change **~/Download** to the path of the unzipped folder in the codes in this text.
+Firstly download this folder by click the green "**<>code**" bottun, and "**Download ZIP**". Then, Unzip in your download folder. If you unzip in other folder, change "**~/Download**" to the path of the unzipped folder in the codes in this text.
 
 ## for WindowsOS
 Just execute "~/Download/a-tune_start_ja_git/a-tune_start_ja7_WindowsOS/a-tune_start_ja7/dist/atune_startja7.exe"
