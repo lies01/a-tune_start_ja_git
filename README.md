@@ -7,6 +7,7 @@ Firstly download this folder by click the green **<>code** bottun, and **Downloa
 Just execute "~/Download/a-tune_start_ja_git/a-tune_start_ja7_WindowsOS/a-tune_start_ja7/dist/atune_startja7.exe"
 
 You may receive warning like below image from your PC. Then, click **More info**, and click **Run**.
+
 ![waning image](https://github.com/user-attachments/assets/88ce5935-333f-45b0-b74c-bc12ef6f4c6e)
 
 ## for MacOS
