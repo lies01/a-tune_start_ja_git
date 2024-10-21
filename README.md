@@ -12,22 +12,17 @@ You may receive warning like below image from your PC. Then, click **More info**
 
 ## for MacOS
 Open "tarminal" application on your PC. Then, input below code.
-
-`cd ~/Download/a-tune_start_ja_git/a-tune_start_ja7_MacOS`
+```cd ~/Download/a-tune_start_ja_git/a-tune_start_ja7_MacOS```
 
 To install requirements for the file, input this code on the terminal.
-
-`pip3 install -r requirements.txt`
+```pip3 install -r requirements.txt```
 (if you have some error, pls install or upgrade **pip3** with below codes on terminal)
 install
-
-`sudo apt install python3-pip`
+```sudo apt install python3-pip```
 upgrade
-
-`pip3 install pip --upgrade`
+```pip3 install pip --upgrade```
 
 When you succeeded, input below code and make app file on your PC.
-
-`pyinstaller atune_startja7.py --onefile`
+```pyinstaller atune_startja7.py --onefile```
 
 Finally, you can execute the app file, "~/Download/a-tune_start_ja_git/a-tune_start_ja7_MacOS/dist/atune_startja7"
